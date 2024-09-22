@@ -28,9 +28,7 @@ Output: Colorized images from different domains (RGB, sketch, infrared).
 
 ### Task 1: Basic Colorization Output
 
-Grayscale Input              |  Colorized Output
-:---------------------------:|:-------------------------:
-![Grayscale Input](images/input1.png) | ![Colorized Output](images/output1.png)
+![Colorization](images/images/Screenshot 2024-09-22 175640.png) 
 
 ### Task 2: Before and After Augmentation
 
