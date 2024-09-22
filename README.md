@@ -22,3 +22,30 @@ Techniques:
 Sketch Model: Edge detection using Canny edge detection.
 Infrared Model: Infrared images were simulated by converting the red channel from RGB images as a proxy for infrared. This transformation is handled by the following function:
 Output: Colorized images from different domains (RGB, sketch, infrared).
+
+
+## Outputs
+
+### Task 1: Basic Colorization Output
+
+Grayscale Input              |  Colorized Output
+:---------------------------:|:-------------------------:
+![Grayscale Input](images/input1.png) | ![Colorized Output](images/output1.png)
+
+### Task 2: Before and After Augmentation
+
+Before Augmentation          |  After Augmentation
+:---------------------------:|:-------------------------:
+![Before Augmentation](images/input2.png) | ![After Augmentation](images/output2.png)
+
+### Task 3: Cross-Domain Colorization
+
+**RGB to Infrared**  
+Input (Infrared)             |  Colorized Output  
+:---------------------------:|:-------------------------:  
+![Infrared Input](images/input3.png) | ![Infrared Colorized](images/output3.png)  
+
+**Sketch to Color**  
+Input (Sketch)               |  Colorized Output  
+:---------------------------:|:-------------------------:  
+![Sketch Input](images/input4.png) | ![Sketch Colorized](images/output4.png)
