@@ -28,22 +28,17 @@ Output: Colorized images from different domains (RGB, sketch, infrared).
 
 ### Task 1: Basic Colorization Output
 
-![Colorization](images/images/Screenshot 2024-09-22 175640.png) 
+![Colorized Image](images/images/Screenshot 2024-09-22 175640.png)
+
 
 ### Task 2: Before and After Augmentation
 
-Before Augmentation          |  After Augmentation
-:---------------------------:|:-------------------------:
-![Before Augmentation](images/input2.png) | ![After Augmentation](images/output2.png)
+
 
 ### Task 3: Cross-Domain Colorization
 
-**RGB to Infrared**  
-Input (Infrared)             |  Colorized Output  
-:---------------------------:|:-------------------------:  
-![Infrared Input](images/input3.png) | ![Infrared Colorized](images/output3.png)  
+** Infrared**  
+
 
 **Sketch to Color**  
-Input (Sketch)               |  Colorized Output  
-:---------------------------:|:-------------------------:  
-![Sketch Input](images/input4.png) | ![Sketch Colorized](images/output4.png)
+
