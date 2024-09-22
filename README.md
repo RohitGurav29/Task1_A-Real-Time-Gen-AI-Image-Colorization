@@ -24,21 +24,5 @@ Infrared Model: Infrared images were simulated by converting the red channel fro
 Output: Colorized images from different domains (RGB, sketch, infrared).
 
 
-## Outputs
 
-### Task 1: Basic Colorization Output
-
-![Colorized Image](images/images/Screenshot 2024-09-22 175640.png)
-
-
-### Task 2: Before and After Augmentation
-
-
-
-### Task 3: Cross-Domain Colorization
-
-** Infrared**  
-
-
-**Sketch to Color**  
 
