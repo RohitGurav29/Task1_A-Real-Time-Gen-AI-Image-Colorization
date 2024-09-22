@@ -1,0 +1,9 @@
+tensorflow==2.11.0          # For deep learning (if using TensorFlow)
+torch==1.13.0                # For deep learning (if using PyTorch)
+torchvision==0.14.0          # For image processing with PyTorch
+numpy==1.23.0                # For numerical operations
+Pillow==9.2.0                # For image handling
+matplotlib==3.6.0            # For plotting and visualizing results
+scikit-image==0.19.3         # For image processing functions
+opencv-python==4.6.0.66      # For image manipulation
+pandas==1.5.0                # For data handling (if needed)
